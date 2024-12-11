@@ -1,0 +1,43 @@
+1.True or False. HTML paragraphs always starts on a new line.
+  True  ✅
+  False
+
+2.Use the correct HTML tag to add a paragraph with the text "Hello World!".
+<html>
+<body>
+................
+</body>
+</html>
+
+ 📌 aswer : <p>Hello World!</p>
+
+3.Clean up this document with proper end tags.
+<h1>This is a Heading </h1>
+<p>This is a paragraph. </p>
+
+ 📌 aswer : </h1>  , </p>
+
+4.Add a horizontal rule between the heading and the paragraph.
+<h1>London</h1>
+......
+<p>London is the capital city of England.
+It is the most populous city in the United Kingdom,
+with a metropolitan area of over 13 million inhabitants.</p>
+
+ 📌 aswer :  <hr>
+
+
+5.Add a line break in the middle of the paragraph:
+<p>My Bonnie lies ..... over the ocean.</p>
+
+ 📌 aswer : <br>
+
+6.Wrap this poem around HTML tags that will preserve all spaces and linebreaks when the element is displayed.
+.....
+  My Bonnie lies over the ocean.
+  My Bonnie lies over the sea.
+  My Bonnie lies over the ocean.
+  Oh, bring back my Bonnie to me.
+.....
+
+ 📌 aswer :  <pre>  , </pre>
