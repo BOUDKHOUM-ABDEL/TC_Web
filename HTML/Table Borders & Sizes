@@ -1,0 +1,35 @@
+1.What is the correct CSS property for styling the border of a table?
+  table-border
+  table-style
+  border   📌​ 
+
+2.Use the correct CSS border values to create a solid black 3 pixels border on a table element.
+table, th, td {
+  border: ............ ;
+}
+  📌​ answer : 3px solid black 
+
+3.What is the correct CSS property for styling the width of a table?
+   size
+   table-size
+   width   📌​ 
+
+4.True or False. To specify a table width, you are only allowed to use percentages as a value.
+   True
+   False  📌​ 
+
+5.Use CSS styles to make the table 300 pixels wide.
+<table   ...............  >
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Points</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+</table>
+   📌​ answer : style="width:300px;"
+
