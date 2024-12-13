@@ -1,0 +1,16 @@
+1.What is the highest HEX number of the following:
+  #44
+  #AA
+  #BB   📌​ 
+
+2.Insert the correct HEX value to make the text color white.
+<p 
+style="color: #.......">This is a paragraph.
+</p>
+    📌​ answer :   ffffff
+
+3.Which one of the following will result in a grey color?
+   #A0A0A0    📌​ 
+   #FF00FF
+   #00FF00
+
