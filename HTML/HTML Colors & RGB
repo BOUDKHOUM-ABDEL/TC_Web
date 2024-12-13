@@ -1,0 +1,19 @@
+1.Insert the correct property to make the text color violet.
+<p 
+  style="..... : violet">This is a paragraph.
+</p>
+   📌​ answer : color
+
+
+2.Insert the correct RGB color values to make the background color completely blue.
+<p 
+   style="background-color:rgb(.., .., ...)">This is a paragraph.
+</p>
+   📌​ answer :   0, 0, 255
+
+3.Insert the a background color where green has the value 100, red has the value 106, and blue has the value 205.
+<p 
+  style="background-color:rgb(.., ..,..)">This is a paragraph.
+</p> 
+    📌​ answer : 106, 100, 205
+
