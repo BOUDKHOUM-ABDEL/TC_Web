@@ -1,0 +1,37 @@
+1.What is the correct tag name for a table-header in HTML?
+  <table-header>
+  <td>
+  <th>  📌​ 
+
+2. Add a table row with two table headers.
+
+The two table headers should have the value "Name" and "Age".
+<table>
+  <tr>
+   .............
+   .............
+  </tr>
+  <tr>
+    <td>Jill Smith</td>
+    <td>50</td>
+  </tr>
+</table>
+    📌​ answer : <th>Name</th> , <th>Age</th>  
+
+3.Add a table caption that says "Names".
+
+
+<table>
+..................
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Points</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+</table>
+    📌​ answer : <caption>Mames</caption>
